@@ -3,6 +3,7 @@
 Este README proporciona una descripción detallada del proyecto de segmentación semántica de imágenes. El proyecto se basa en el uso de un conjunto de datos de segmentación semántica de imágenes urbanas llamado "Cityscapes Image Pairs".
 
 Al cual se puede acceder a través de la siguiente liga: [Cityscapes Image Pairs Dataset](https://www.kaggle.com/datasets/dansbecker/cityscapes-image-pairs/data).
+El jupyternotebook se encuentra en la siguiente liga: [Image_Segmentation.ipynb](https://colab.research.google.com/drive/1Pfqk_PoN-YN1KyA3a5ZTAgudswapfH6P?usp=sharing)
 
 A continuación, se presenta una estructura que detalla los aspectos clave de este proyecto.
 
@@ -43,7 +44,7 @@ El modelo de segmentación semántica fue entrenado y evaluado en el conjunto de
 
 ## Conclusiones :triangular_flag_on_post:
 
-En conclusión, el proyecto de segmentación semántica de imágenes urbanas ha logrado desarrollar un modelo de CNN capaz de segmentar objetos en entornos urbanos con alta precisión. Sin embargo, se observa margen para seguir mejorando el modelo, lo que podría lograrse mediante la optimización de hiperparámetros y la exploración de arquitecturas de redes neuronales más avanzadas. Además, se debe considerar la diversidad y complejidad de las imágenes urbanas para futuros trabajos.
+
 
 ## :small_blue_diamond: Uso
 
