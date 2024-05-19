@@ -2,9 +2,9 @@
 ---
 Este README proporciona una descripción detallada del proyecto de segmentación semántica de imágenes. El proyecto se basa en el uso de un conjunto de datos de segmentación semántica de imágenes urbanas llamado "Cityscapes Image Pairs".
 
-- El conjunto de datos se puede consultar a través de la plataforma de kaggle en la siguiente liga: [Cityscapes Image Pairs Dataset](https://www.kaggle.com/datasets/dansbecker/cityscapes-image-pairs/data).
-- El jupyternotebook se encuentra en la siguiente liga: [Image_Segmentation.ipynb](https://colab.research.google.com/drive/1Pfqk_PoN-YN1KyA3a5ZTAgudswapfH6P?usp=sharing)
-- Se ha creado un proyecto de Google Colab además de las carpetas necesarias en la siguiente [ubicación](https://drive.google.com/drive/folders/1m7DZ6JIDJk5MSV1IQJvLZ2E4pBZJO__X?usp=sharing)
+- El conjunto de datos se puede consultar a través de la plataforma de kaggle en la siguiente liga: [_Cityscapes Image Pairs Dataset_](https://www.kaggle.com/datasets/dansbecker/cityscapes-image-pairs/data).
+- El jupyternotebook se encuentra en la siguiente liga: [_Image_Segmentation.ipynb_](https://colab.research.google.com/drive/1Pfqk_PoN-YN1KyA3a5ZTAgudswapfH6P?usp=sharing)
+- Se ha creado un proyecto de Google Colab además de las carpetas necesarias en la siguiente [_Ubicación_](https://drive.google.com/drive/folders/1m7DZ6JIDJk5MSV1IQJvLZ2E4pBZJO__X?usp=sharing)
 
 
 ## :arrow_right: Contenido del repositorio 
