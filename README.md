@@ -23,7 +23,7 @@ Este README proporciona una descripción detallada del proyecto de segmentación
 Inicialmente esta es la distribución de las carpetas:
 
 - _Train_: **2975** imágenes de entrenamiento
-- _Validation_: **500** imágenes de validación
+- Test: **500** imágenes de validación
 
 Las imágenes muestran la segmentación semántica junto con la imagen original, lo que lo convierte en un conjunto de datos valioso para tareas de segmentación semántica en entornos urbanos.
 
