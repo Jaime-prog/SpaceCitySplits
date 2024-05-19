@@ -9,10 +9,9 @@ A continuación, se presenta una estructura que detalla los aspectos clave de es
 ## :arrow_right: Contenido del repositorio 
 
  _Archivos/Scripts_: 
-- `Semantic_Segmentation_Model.ipynb` (Implementación modelo base)
--  `Improved_Semantic_Model.ipynb` (Implementación modelo mejorado)
+- `Image_Segmentation_City.ipynb` (Implementación modelo base)
 - `EvaluateModel.ipynb` (Libreta para evaluar el modelo)
-- `Reporte Implementación de un modelo de segmentación semántica` 
+- `Reporte Implementación de un modelo de segmentación` 
 
 ## Dataset :information_source:
 
