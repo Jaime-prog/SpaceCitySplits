@@ -26,8 +26,7 @@ Inicialmente esta es la distribución de las carpetas:
 Las imágenes muestran la segmentación semántica junto con la imagen original, lo que lo convierte en un conjunto de datos valioso para tareas de segmentación semántica en entornos urbanos.
 
 ## Objetivo :dart:
-El objetivo principal de este proyecto es desarrollar 
-La segmentación semántica de imágenes urbanas tiene aplicaciones en la identificación y delimitación de objetos en entornos urbanos, lo que es fundamental para diversas aplicaciones como la conducción autónoma, la planificación urbana y la vigilancia.
+El objetivo principal de este proyecto es desarrollar segmentación semántica de imágenes urbanas. La cual tiene aplicaciones en la identificación y delimitación de objetos en entornos urbanos, lo que es fundamental para diversas aplicaciones como la conducción autónoma, la planificación urbana y la vigilancia.
 
 Desarrollar un modelo preciso de segmentación semántica de imágenes urbanas mediante deep learning representa una contribución significativa para la investigación en visión por computadora y sus aplicaciones prácticas en entornos urbanos.
 
