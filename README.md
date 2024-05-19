@@ -11,8 +11,6 @@ Este README proporciona una descripción detallada del proyecto de segmentación
 
  _Archivos/Scripts_: 
 - `Image_Segmentation_City.ipynb` (Implementación modelo base)
-- `EvaluateModel.ipynb` (Libreta para evaluar el modelo)
-- `Reporte Implementación de un modelo de segmentación` 
 
 ## Dataset :information_source:
 
