@@ -5,7 +5,8 @@ Este README proporciona una descripción detallada del proyecto de segmentación
 Al cual se puede acceder a través de la siguiente liga: [Cityscapes Image Pairs Dataset](https://www.kaggle.com/datasets/dansbecker/cityscapes-image-pairs/data).
 El jupyternotebook se encuentra en la siguiente liga: [Image_Segmentation.ipynb](https://colab.research.google.com/drive/1Pfqk_PoN-YN1KyA3a5ZTAgudswapfH6P?usp=sharing)
 
-A continuación, se presenta una estructura que detalla los aspectos clave de este proyecto.
+Se ha creado un proyecto de colaboración en Google además de las carpetas necesarias en la siguiente [liga](https://drive.google.com/drive/folders/1m7DZ6JIDJk5MSV1IQJvLZ2E4pBZJO__X?usp=sharing)
+
 
 ## :arrow_right: Contenido del repositorio 
 
