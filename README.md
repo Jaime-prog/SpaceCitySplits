@@ -10,7 +10,7 @@ Este README proporciona una descripción detallada del proyecto de segmentación
 ## :arrow_right: Contenido del repositorio 
 
  _Archivos/Scripts_: 
-- `Image_Segmentation_City.ipynb` (Implementación modelo base)
+- `Image_Segmentation_City.ipynb` 
 
 ## Dataset :information_source:
 
