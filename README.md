@@ -54,7 +54,7 @@ Para utilizar estos scripts, siga estos pasos generales:
 1. Clona este repositorio en tu entorno local:
 
    ```bash
-   git clone [https://github.com/TuUsuario/AI_ImageSegmentation_SemanticSight.git](https://github.com/Jaime-prog/SpaceCitySplits.git)
+   git clone https://github.com/Jaime-prog/SpaceCitySplits.git
    ```
 2. Modifique los scripts según sea necesario para adaptarlos a su equipo específico. Por ejemplo, la ubicación de los archivos.
 3. Ejecute los scripts deseados desde la línea de comandos, utilizando Python para los scripts Python y bash para el script shell.
