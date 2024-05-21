@@ -1,4 +1,4 @@
-# SpaceCitySplits (Image Segmentation)
+Segmentación de Imágenes urbanas
 ---
 Este README proporciona una descripción detallada del proyecto de segmentación semántica de imágenes. El proyecto se basa en el uso de un conjunto de datos de segmentación semántica de imágenes urbanas llamado "Cityscapes Image Pairs".
 
