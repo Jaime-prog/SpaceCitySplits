@@ -1,4 +1,4 @@
-Segmentación de Imágenes urbanas
+Segmentación de Imágenes Urbanas
 ---
 Este README proporciona una descripción detallada del proyecto de segmentación semántica de imágenes. El proyecto se basa en el uso de un conjunto de datos de segmentación semántica de imágenes urbanas llamado "Cityscapes Image Pairs".
 
