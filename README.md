@@ -16,7 +16,7 @@ Este README proporciona una descripción detallada del proyecto de segmentación
 
 **Nombre del dataset**: Cityscapes Image Pairs
 
-**Variables**: Las imágenes del conjunto de datos tienen un formato de 256x512 píxeles y 3 canales (RGB). El conjunto de datos está dividido en directorios de entrenamiento y validación. Este conjunto de datos comprende imágenes urbanas con etiquetas de segmentación semántica, ideales para tareas de segmentación semántica.
+**Variables**: Las imágenes del conjunto de datos tienen un formato de 256x512 píxeles y 3 canales (RGB). El conjunto de datos está dividido en directorios de entrenamiento y validación. Este conjunto de datos comprende imágenes urbanas con etiquetas de segmentación semántica.
 
 Inicialmente esta es la distribución de las carpetas:
 
