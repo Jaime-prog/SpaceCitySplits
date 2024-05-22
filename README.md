@@ -30,6 +30,11 @@ El objetivo principal de este proyecto es desarrollar segmentación semántica d
 
 Desarrollar un modelo preciso de segmentación semántica de imágenes urbanas mediante deep learning representa una contribución significativa para la investigación en visión por computadora y sus aplicaciones prácticas en entornos urbanos.
 
+## :bookmark_tabs: Justificación y respaldo en la literatura
+Para la resolución de este problema, en cuánto a la metodología y a la utilización de ciertas funciones se basaron en los resultados del siguiente paper 
+[Deep Semantic Segmentation of Angiogenesis Images
+](https://www.mdpi.com/1422-0067/24/2/1102)
+
 ## Resultados y Evaluación Inicial :chart:
 
 El modelo de segmentación semántica fue entrenado y evaluado en el conjunto de datos "Cityscapes Image Pairs". A continuación, presentamos los resultados obtenidos:
