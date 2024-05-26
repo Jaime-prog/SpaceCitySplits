@@ -1,4 +1,4 @@
-# SpaceCitySplits (Image Segmentation)
+Segmentación de Imágenes Urbanas
 ---
 Este README proporciona una descripción detallada del proyecto de segmentación semántica de imágenes. El proyecto se basa en el uso de un conjunto de datos de segmentación semántica de imágenes urbanas llamado "Cityscapes Image Pairs".
 
@@ -10,15 +10,13 @@ Este README proporciona una descripción detallada del proyecto de segmentación
 ## :arrow_right: Contenido del repositorio 
 
  _Archivos/Scripts_: 
-- `Image_Segmentation_City.ipynb` (Implementación modelo base)
-- `EvaluateModel.ipynb` (Libreta para evaluar el modelo)
-- `Reporte Implementación de un modelo de segmentación` 
+- `Image_Segmentation_City.ipynb` 
 
 ## Dataset :information_source:
 
 **Nombre del dataset**: Cityscapes Image Pairs
 
-**Variables**: Las imágenes del conjunto de datos tienen un formato de 256x512 píxeles y 3 canales (RGB). El conjunto de datos está dividido en directorios de entrenamiento y validación. Este conjunto de datos comprende imágenes urbanas con etiquetas de segmentación semántica, ideales para tareas de segmentación semántica.
+**Variables**: Las imágenes del conjunto de datos tienen un formato de 256x512 píxeles y 3 canales (RGB). El conjunto de datos está dividido en directorios de entrenamiento y validación. Este conjunto de datos comprende imágenes urbanas con etiquetas de segmentación semántica.
 
 Inicialmente esta es la distribución de las carpetas:
 
@@ -28,10 +26,14 @@ Inicialmente esta es la distribución de las carpetas:
 Las imágenes muestran la segmentación semántica junto con la imagen original, lo que lo convierte en un conjunto de datos valioso para tareas de segmentación semántica en entornos urbanos.
 
 ## Objetivo :dart:
-El objetivo principal de este proyecto es desarrollar 
-La segmentación semántica de imágenes urbanas tiene aplicaciones en la identificación y delimitación de objetos en entornos urbanos, lo que es fundamental para diversas aplicaciones como la conducción autónoma, la planificación urbana y la vigilancia.
+El objetivo principal de este proyecto es desarrollar segmentación semántica de imágenes urbanas. La cual tiene aplicaciones en la identificación y delimitación de objetos en entornos urbanos, lo que es fundamental para diversas aplicaciones como la conducción autónoma, la planificación urbana y la vigilancia.
 
 Desarrollar un modelo preciso de segmentación semántica de imágenes urbanas mediante deep learning representa una contribución significativa para la investigación en visión por computadora y sus aplicaciones prácticas en entornos urbanos.
+
+## :bookmark_tabs: Justificación y respaldo en la literatura
+Para la resolución de este problema, en cuánto a la metodología y a la utilización de ciertas funciones se basaron en los resultados del siguiente paper 
+[Deep Semantic Segmentation of Angiogenesis Images
+](https://www.mdpi.com/1422-0067/24/2/1102)
 
 ## Resultados y Evaluación Inicial :chart:
 
