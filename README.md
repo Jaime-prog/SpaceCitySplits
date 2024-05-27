@@ -72,7 +72,6 @@ El coeficiente Dice es otra métrica utilizada habitualmente para evaluar la sim
 
 ## Uso Imágenes Reales :triangular_flag_on_post:
 ![Screenshot output base model]([https://myoctocat.com/assets/images/base-octocat.svg](/Resource_Images/output_base_model.png)
-![Screenshot output base model]([https://myoctocat.com/assets/images/base-octocat.svg](/Resource_Images/output_improved_model.png)
 
 ## :small_blue_diamond: Uso
 
