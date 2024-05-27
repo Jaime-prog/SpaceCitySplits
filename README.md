@@ -71,7 +71,7 @@ El coeficiente Dice es otra métrica utilizada habitualmente para evaluar la sim
 
 
 ## Uso Imágenes Reales :triangular_flag_on_post:
-
+[Resultado 1](Resource_Images/ouput_base_model)
 
 
 ## :small_blue_diamond: Uso
