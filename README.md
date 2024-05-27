@@ -70,7 +70,7 @@ Coeficiente Dice: 0.4587
 El coeficiente Dice es otra métrica utilizada habitualmente para evaluar la similitud entre dos conjuntos. Un coeficiente Dice de 0.4587 indica que alrededor del 45.87% de los píxeles de la máscara predicha coinciden con los píxeles de la máscara real. Aunque este valor es inferior en comparación con el IoU, sigue indicando un nivel moderado de concordancia entre las máscaras predicha y real.
 
 
-## Conclusiones :triangular_flag_on_post:
+## Uso Imágenes Reales :triangular_flag_on_post:
 
 
 
