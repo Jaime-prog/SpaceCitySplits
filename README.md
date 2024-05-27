@@ -59,7 +59,7 @@ Después configuramos como tal la arquitectura del unet autoencoder, en el cual 
 El modelo de segmentación semántica fue entrenado y evaluado en el conjunto de datos "Cityscapes Image Pairs". A continuación, presentamos los resultados obtenidos:
 
 - **(Test Loss):** Un valor de 0.5688 indica que el modelo aún tiene margen para mejorar en la predicción precisa de las etiquetas de las imágenes. 
-- **(Test Accuracy): **Una precisión de 0.7107 sugiere que el modelo acierta en la clasificación de aproximadamente el 71% de las imágenes.
+- **(Test Accuracy):** Una precisión de 0.7107 sugiere que el modelo acierta en la clasificación de aproximadamente el 71% de las imágenes.
 - **IoU (Mean Intersection over Union):** Un IoU promedio de 0.9297 indica que el modelo predice con alta precisión la superposición entre las áreas segmentadas y las áreas reales. Un IoU cercano a 1 indica una coincidencia casi perfecta entre las segmentaciones predichas y reales.
 - **Coeficiente de Dice:** Para esta métrica se obtuvo un coeficiente de Dice de 0.4273. El coeficiente de Dice se enfoca en la evaluación de la coincidencia de volumen entre las segmentaciones, y un valor cercano a 1 indica una alta coincidencia de volumen.
 
