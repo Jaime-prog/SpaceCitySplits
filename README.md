@@ -73,6 +73,12 @@ El coeficiente Dice es otra métrica utilizada habitualmente para evaluar la sim
 ## Uso Imágenes Reales :triangular_flag_on_post:
 ![Screenshot output base model](https://github.com/Jaime-prog/SpaceCitySplits/blob/main/Resoure_Images/output_base_model.png)
 
+
+![Screenshot output improved model](https://github.com/Jaime-prog/SpaceCitySplits/blob/main/Resoure_Images/output_improved_model.png)
+
+
+
+
 ## :small_blue_diamond: Uso
 
 Para utilizar estos scripts, siga estos pasos generales:
