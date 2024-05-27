@@ -43,8 +43,8 @@ Para la resolución de este problema, en cuánto a la metodología y a la utiliz
 - **Partición:** Imágenes se dividieron en entrada y máscara para entrenamiento adecuado.
 - **División de datos:** 2,900 muestras para entrenamiento y el resto para validación.
 
-- ## :diamond_shape_with_a_dot_inside: Arquitectura del modelo
-  Para este problema se decidio implementar un unet autoencoder para poder hacer la segmentación de imágenes. Para esta arquitectura contamos con 2 partes esenciales:
+## :diamond_shape_with_a_dot_inside: Arquitectura del modelo
+  Para este problema se decidio implementar un unet autoencoder para poder hacer la segmentación de imágenes. Para esta arquitectura contamos con 2 partes esenciales: 
   - EncoderLayerBlock
  
 Esta sección de la arquitectura es la que se encarga de poder captar las características tanto de nivel bajo como de nivel alto. Algunos ejemplos de estas características de bajo nivel podrían incluir, los colores, las figuras básicas, los bordes, etc. Mientras que las características de alto nivel tienen que ver con patrones más intrínsecos dentro de la imagen. Ahora bien, en esta arquitectura en especifica se cuenta con la sección de las **capas de convolución** que son las encargadas de extraer las características antes mencionadas, y capas de max pooling que son las encargadas de reducir el espacio dimensional de la imágen. En este caso se configuro 2 capas de convolución en un kernel de 3x3 y tras esta operación se realiza el max pooling.
