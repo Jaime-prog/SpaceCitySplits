@@ -98,10 +98,6 @@ Para utilizar estos scripts, siga estos pasos generales:
 
 ---
 # Referencias
-- [Deep Semantic Segmentation of Angiogenesis Images
-](https://www.mdpi.com/1422-0067/24/2/1102)
-- [Unet Architecture](https://www.kaggle.com/code/prvnkmr/unet-architecture-breakdown)
-
 - Ibragimov, A., Sofya Senotrusova, Kseniia Markova, Evgeny Karpulevich, Ivanov, A., Elizaveta Tyshchuk, Polina Grebenkina, Stepanova, O., Sirotskaya, A., Anastasiia Kovaleva, Arina Oshkolova, Zementova, M., Viktoriya Konstantinova, Kogan, I., Sergey Selkov, & Sokolov, D. (2023). Deep Semantic Segmentation of Angiogenesis Images. International Journal of Molecular Sciences, 24(2), 1102–1102. https://doi.org/10.3390/ijms24021102
 - prvnkmr. (2021, January 11). UNet Architecture Breakdown. Kaggle.com; Kaggle. https://www.kaggle.com/code/prvnkmr/unet-architecture-breakdown
 
