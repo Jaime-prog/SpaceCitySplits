@@ -83,6 +83,9 @@ _En este caso el enfoque de las mejoras se quisieron hacer a partir de mejorar o
 
 ![Screenshot output improved model](https://github.com/Jaime-prog/SpaceCitySplits/blob/main/Resoure_Images/output_improved_model.png)
 
+![Screenshot output improved model](https://github.com/Jaime-prog/SpaceCitySplits/blob/main/Resoure_Images/latest_result.png)
+
+
  _Los resultados finales se encuentran documentados en el reporte_
 
 ## :small_blue_diamond: Uso
