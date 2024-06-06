@@ -70,15 +70,19 @@ La métrica de intersección media sobre la unión (IoU) mide la superposición 
 - Coeficiente Dice: 0.4587
 El coeficiente Dice es otra métrica utilizada habitualmente para evaluar la similitud entre dos conjuntos. Un coeficiente Dice de 0.4587 indica que alrededor del 45.87% de los píxeles de la máscara predicha coinciden con los píxeles de la máscara real. Aunque este valor es inferior en comparación con el IoU, sigue indicando un nivel moderado de concordancia entre las máscaras predicha y real.
 
+## Principales Cambios con Respecto al Modelo Base 📏
+Optimizador: He utilizado el optimizador Adam con una tasa de aprendizaje de 0.001. Esto ayuda a mejorar el rendimiento del modelo mediante la adaptación dinámica del aprendizaje.
+Número de épocas: He aumentado el número de épocas a 90, lo que permite que el modelo se entrene durante un período más largo y consiga potencialmente un mejor rendimiento.
+Técnicas de regularización: He utilizado dropout para introducir aleatoriedad durante el entrenamiento y evitar el sobreajuste. Esta técnica evita que el modelo memorice los datos de entrenamiento y generalice mal a nuevos datos.
+Inicializador del núcleo: He utilizado el inicializador de kernel 'he_normal' para inicializar los pesos de las capas convolucionales. Esto ayuda a evitar que el modelo se sobreajuste
+
 
 ## Uso Imágenes Reales :triangular_flag_on_post:
 ![Screenshot output base model](https://github.com/Jaime-prog/SpaceCitySplits/blob/main/Resoure_Images/output_base_model.png)
 
-
 ![Screenshot output improved model](https://github.com/Jaime-prog/SpaceCitySplits/blob/main/Resoure_Images/output_improved_model.png)
 
-
-
+ _Los resultados finales se encuentran documentados en el reporte_
 
 ## :small_blue_diamond: Uso
 
